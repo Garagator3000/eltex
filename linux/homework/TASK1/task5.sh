@@ -1,0 +1,1 @@
+ls -l > text.txt | sed -i "1a Права доступа Пользов. Группа Размер Посл.Модифик. Имя"  text.txt | cat text.txt
